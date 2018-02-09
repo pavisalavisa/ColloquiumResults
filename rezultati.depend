@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1518202701 source:d:\faks\iii. semestar\strukture podataka\2kolokvij\rezultati\source.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
