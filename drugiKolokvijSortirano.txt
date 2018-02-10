@@ -1,82 +1,0 @@
-Vuco Marija		50		100
-Grgatoviæ Marin		50		100
-Anðeliæ Stella		50		100
-Vukoviæ Anica		48		96
-Šoljan Domina		48		96
-Oršuliæ Antonela		48		96
-Kristièeviæ Antonio		48		96
-Katiæ Dora		48		96
-Èulina Jelena		48		96
-Èmrlec Marta		48		96
-ÀBurazer Borna		48		96
-ÀBratiæ Lea		48		96
-Bariæ Zvonimir		48		96
-Novak Nikola		47		94
-Marèiæ Jerolim		46		92
-Kovaèeviæ Tina		46		92
-Èoviæ Iva		46		92
-Crnogorac Luka		46		92
-Žunaboviæ Ivan		45		90
-Vujasin Ela		45		90
-Suton Anita		45		90
-Lovriæ Meri		45		90
-Jurkoviæ Lucia		45		90
-Dražiæ Ante		45		90
-Košèal Karlo		44		88
-Hržiæ Stipan		44		88
-Vrdoljak Josip		43		86
-Machiedo Ðani		43		86
-Jukiæ Josipa		43		86
-Jažo Sandro		43		86
-Smoljan Tin		40		80
-Meter Davor		40		80
-Mandiæ Marko		40		80
-Èikotiæ Ante		40		80
-Roso Petra		39		78
-Jaliæ Andrea		39		78
-Soriæ Ante		38		76
-Luketin Luka		38		76
-Kalebiæ Matej		38		76
-Bašiæ Ivan		38		76
-Puljiz Mia		37		74
-èBadrov Nikolina		37		74
-ÀBraliæ Ivan		36		72
-Ujdur Petra		35		70
-Tadiæ Marko		35		70
-Nižiæ Ante		35		70
-Jerkoviæ Antonio		35		70
-Deliæ Matej		35		70
-Lerotiæ Viktorija		34		68
-Dediæ Marija		34		68
-Èurkov Ante		34		68
-Vuletiæ Jelena		33		66
-Vuèica Josip		33		66
-Lovriæ Ante		33		66
-Turiæ Ante		32		64
-˜yBudiša Ivana		32		64
-èGBarišiæ Šime		32		64
-Jonjiæ Ante		31		62
-èGAntoloviæ Filip		30		60
-Marin Ivan		29		58
-Kamenjarin Antonia		29		58
-Golubiæ Gabrijel		29		58
-Mladeniæ Lea		28		56
-Križanoviæ Frane		28		56
-Miletiæ Dino		26		52
-Krolo Bruno		26		52
-Židiæ Dinko		25		50
-èGBaliæ Marko		25		50
-èGBakušiæ Ivan		25		50
-Prpa Sandro		24		48
-Perkušiæ Toni		23		46
-Olujiæ Petar		22		44
-ÀBudimir Ivo		20		40
-Ujeviæ Igor		16		32
-Labetiæ Petar		16		32
-Maslov Marin		15		30
-ÀBratiæ Tomislav		15		30
-Žitko Nikola		12		24
-èGBiliæ Branimir		12		24
-Srhoj Tomislav		8		16
-Kartelo Magdalena		3		6
-èGBatiniæ Stipan		0		0
